@@ -42,12 +42,9 @@
   </a>  
 </p>
 
-## GSSOC(24) Badges 🏆
-<div style='display:flex; align-items:center; gap: 10 px;' align='center'>
-  <a>
-  <iframe src="https://api.badgr.io/public/assertions/6AoMiTXDRCaO2eqAG1NVSg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=aryan.rohila.biz%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
-</a>
-</div>
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 
 ## My Github Stats 📈
 
