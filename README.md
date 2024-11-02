@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi, I'm Aryan Rohila👋</h1>
 <h3 align="center">🚀 Aspiring Software Developer | 💻 Passionate Designer & Computer Science Student</h3>
 
@@ -70,6 +72,9 @@
 
 ## Holopin Badges 🎖️
 [![An image of @aryan14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan14)](https://holopin.io/@aryan14)
+
+<h1 align="center"> Fork 🍴 to create yours :star2: to support. Happy Coding 😉 </h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <!---
 AryanR14/AryanR14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
