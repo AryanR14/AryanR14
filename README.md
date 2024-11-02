@@ -18,7 +18,11 @@
 - 📫 How to reach me **aryan.rohila.biz@gmail.com**
 
 - ✨ I love **Designing, Development, and Learning New Technologies.**
-- 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.aryan14_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-rohila/)
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](aryan.rohila.biz@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
