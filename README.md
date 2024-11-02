@@ -22,7 +22,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.aryan14_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-rohila/)
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](aryan.rohila.biz@gmail.com)
+<a href="mailto:aryan.rohila.biz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white" alt="Gmail" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
