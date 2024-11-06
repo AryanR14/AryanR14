@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Aryan Rohila👋</h1>
 <h3 align="center">🚀 Aspiring Software Developer | 💻 Passionate Designer & Computer Science Student</h3>
 
-## About Me 📃
+## About Me 📃<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AryanR14&label=Profile%20views&color=0e75b6&style=flat" alt="AryanR14" /> </p>
 
